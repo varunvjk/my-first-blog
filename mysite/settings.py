@@ -25,7 +25,7 @@ SECRET_KEY = 'g2#@-7=$ymknkj-aqzc=&)#gge*gbj@jul8r7fb*qep2%u@&y^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'googlecoding.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vjkvarun.pythonanywhere.com']
 
 
 # Application definition
